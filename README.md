@@ -4,12 +4,12 @@ Just the UI of the Official Application of the North American operator Africell,
 
 Apenas a UI da Aplicação Oficial da operadora norte-americana Africell, que está presente em mais de 5 paises africanos incluindo Angola
 
-<img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshots/SplashScreen.png" width="250"> <img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshots/Login.png" width="250">  <img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshots/Home.png" width="250">
+<img src="https://github.com/MartinDala/africell_app/blob/master/assets/screenshots/SplashScreen.png" width="250"> <img src="https://github.com/MartinDala/africell_app/blob/master/assets/screenshots/Login.png" width="250">  <img src="https://github.com/MartinDala/africell_app/blob/master/assets/screenshots/Home.png" width="250">
 
 
 
 ## STRUCTURE CODE
-<img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshots/codescreen.png" width="250"> 
+<img src="https://github.com/MartinDala/africell_app/blob/master/assets/screenshots/codescreen.png" width="250"> 
 
 ## TECNOLOGIES
 💡Flutter and Dart <br>
