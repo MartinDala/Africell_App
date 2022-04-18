@@ -12,31 +12,30 @@ Apenas a UI da Aplicação Oficial da operadora norte-americana Africell, que es
 <img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshots/codescreen.png" width="250"> 
 
 ## TECNOLOGIES
-💡Flutter and Dart
+💡Flutter and Dart <br>
 
 
 # Packages:
-💡carousel_images
+💡carousel_images <br>
 💡webview_flutter
 
 This project is a starting point for a Flutter application.
 
 ## FEACTURES
-💡Splash
-💡Login
-💡Home
-💡Caerer
-💡Internet
-💡Recharge
-💡Shop
+💡Splash <br>
+💡Login <br>
+💡Home  <br>
+💡Caerer <br>
+💡Internet <br>
+💡Recharge <br>
+💡Shop <br>
 💡Suport
 
 
 
 
 ## RESOURCES
-- [UI FIGMA ](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [UI FIGMA ](https://flutter.dev/docs/get-started/codelab) <br>
 
 Está aplicação é apenas uma UI inspirada ao website original, para o proximo app da operadora,
 Pois não é oficial, sinta a vontade em contribuir.
