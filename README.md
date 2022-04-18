@@ -9,7 +9,7 @@ Apenas a UI da Aplicação Oficial da operadora norte-americana Africell, que es
 
 
 ## STRUCTURE CODE
-<img src="https://github.com/MartinDala/africell_app/blob/master/assets/screenshots/codescreen.png" width="250"> 
+<img src="https://github.com/MartinDala/africell_app/blob/master/assets/screenshots/codescreen.png" width="350"> 
 
 ## TECNOLOGIES
 💡Flutter and Dart <br>
