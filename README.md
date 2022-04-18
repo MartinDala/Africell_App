@@ -1,4 +1,4 @@
-# AFRICELL APP
+# 💡😍AFRICELL APP
 
 Just the UI of the Official Application of the North American operator Africell, which is present in more than 5 African countries including Angola
 
