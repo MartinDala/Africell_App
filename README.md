@@ -19,7 +19,6 @@ Apenas a UI da Aplicação Oficial da operadora norte-americana Africell, que es
 💡carousel_images <br>
 💡webview_flutter
 
-This project is a starting point for a Flutter application.
 
 ## FEACTURES
 💡Splash <br>
